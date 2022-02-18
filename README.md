@@ -1,4 +1,4 @@
-## tf-cvmfs-stratum1-refdata-GARR
+##  cvmfs-stratum0-infrastructure
 Simple Terraform recipe to deploy a VM with attached volume over Openstack cloud to host a CVMFS Stratum0 
 CVMFS stratum0 can be configured using [cvmfs configuration playbooks](https://github.com/Laniakea-elixir-it/cvmfs-config-playbooks) 
 
